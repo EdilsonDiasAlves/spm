@@ -1,3 +1,11 @@
 thead {
   color: #337AB7;
 }
+
+.product-table-row {
+  height: 75px;
+}
+
+.product-table-image {
+  width: 150px;
+}
